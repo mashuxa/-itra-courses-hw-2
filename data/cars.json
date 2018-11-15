@@ -1,0 +1,327 @@
+[
+  {
+    "brand": "Audi",
+    "models": [
+      {
+        "name": "A3",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "A4",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "A5",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "A6",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "models": [
+      {
+        "name": "X1",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "X3",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "X5",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "X6",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Ford",
+    "models": [
+      {
+        "name": "Edge",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "Escape",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "Escort",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "Excursion",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Honda",
+    "models": [
+      {
+        "name": "Accord",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "Civic",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "CR-V",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "CRX",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Mazda",
+    "models": [
+      {
+        "name": "CX-5",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "CX-7",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "CX-9",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      },
+      {
+        "name": "GLC",
+        "transmission": [
+          "Automatic Transmission",
+          "Automated Manual Transmission",
+          "Continuously Variable Transmission",
+          "Manual Transmission"
+        ],
+        "fuel": [
+          "Gasoline",
+          "Diesel",
+          "Natural gas",
+          "Electric"
+        ]
+      }
+    ]
+  }
+]
