@@ -33,7 +33,7 @@ body {
     border: none;
     outline: none;
     transition-duration: 0.3s;
-    cursor: context-menu;
+    cursor: default;
 }
 
 .btn--visible {
@@ -68,6 +68,8 @@ body {
     background-color: lightseagreen;
 }
 
+.items-wrapper--last .item:hover,
 .items-wrapper--last .item--selected {
     background-color: transparent;
+    cursor: default;
 }
