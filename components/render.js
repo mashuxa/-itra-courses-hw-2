@@ -18,6 +18,9 @@ export default function (state) {
   }
 
   wrapper.innerHTML = '';
+  if (state.currentState === 'fuel') {
+    wrapper.classList.add('items-wrapper--last');
+  }
   state.currentList.forEach((el) => {
     createElement(state, 'item', el, wrapper);
   });
