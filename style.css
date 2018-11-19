@@ -1,6 +1,7 @@
 html {
     height: 100%;
     font: 15px sans-serif;
+    background-color: #f5f5f5;
 }
 
 body {
@@ -10,7 +11,7 @@ body {
     height: 640px;
     margin: auto;
     overflow: auto;
-    border: 1px dotted gray;
+    background-color: #ffffff;
     box-sizing: border-box;
 }
 
@@ -18,9 +19,12 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 5px;
 }
 
 .btn {
+    visibility: hidden;
+    opacity: 0;
     padding: 10px 15px;
     font-size: 1.2em;
     font-weight: 500;
@@ -29,15 +33,35 @@ body {
     border: none;
     outline: none;
     transition-duration: 0.3s;
+    cursor: context-menu;
+}
+
+.btn--visible {
+    visibility: visible;
+    opacity: 0.5;
+}
+
+.btn--enabled {
+    opacity: 1;
     cursor: pointer;
 }
 
-.btn--hidden {
-    visibility: hidden;
-    opacity: 0;
+.items-wrapper {
+    padding: 20px 0;
 }
 
-.btn--disabled {
-    opacity: 0.5;
-    cursor: context-menu;
+.item {
+    cursor: pointer;
+    transition-duration: 0.3s;
+    padding: 10px;
+    margin: 5px;
+    border: 1px dotted midnightblue;
+}
+
+.item:hover:not(.item--selected) {
+    background-color: lightsteelblue;
+}
+
+.item--selected {
+    background-color: lightseagreen;
 }
